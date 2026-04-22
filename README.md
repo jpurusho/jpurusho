@@ -1,8 +1,13 @@
 # Jerome Purushotham
 
-Software architect and full-stack engineer building desktop applications, distributed systems, and developer tooling.
+Software architect building enterprise AI agent platforms and full-stack applications at scale.
 
-## Projects
+**Current focus:** Designing and shipping agentic LLM systems — intelligent query routing and classification, real-time SSE streaming with plan-approval workflows, MCP protocol integration, and multi-turn session persistence (S3/Redis/Valkey) for high-availability Kubernetes deployments. Building across Go microservices (API gateways, task managers) and Python orchestrators with gRPC service contracts.
+
+**Also building:** Desktop applications with Electron, full-stack web apps with React and FastAPI/Django, and developer tooling — from CI/CD pipelines to observability infrastructure (end-to-end OpenTelemetry tracing, Splunk APM dashboards) and automated LLM evaluation frameworks.
+
+
+## Personal Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -12,11 +17,14 @@ Software architect and full-stack engineer building desktop applications, distri
 
 ## Tech Stack
 
-**Languages:** TypeScript, Python, JavaScript, SQL, Shell  
-**Frontend:** React, Material UI, Vite  
-**Backend:** Node.js, FastAPI, Django  
-**Desktop:** Electron, electron-builder, electron-updater  
-**Data:** SQLite, PostgreSQL  
-**Cloud & DevOps:** Google Cloud (OAuth, Drive API), Docker, Kubernetes, GitHub Actions  
-**AI/ML:** RAG pipelines, LLM integrations  
-**Observability:** Jaeger, OpenTelemetry
+| Category | Technologies |
+|---|---|
+| **Languages** | TypeScript, Python, Go, JavaScript, SQL, Shell |
+| **Frontend** | React, Material UI, Vite |
+| **Backend** | Node.js, FastAPI, Django, gRPC/Protobuf, Server-Sent Events (SSE) |
+| **Desktop** | Electron, electron-builder, electron-updater |
+| **Data** | SQLite, PostgreSQL, Redis/Valkey, S3, MongoDB, Weaviate |
+| **Cloud & DevOps** | AWS (Bedrock, SageMaker, S3), Google Cloud (OAuth, Drive API), Docker, Kubernetes, Helm, GitHub Actions |
+| **AI/ML** | Agentic LLM orchestration, MCP (Model Context Protocol), RAG pipelines, LLM evaluation pipelines, query classification/routing |
+| **Observability** | OpenTelemetry (tracing + metrics), Jaeger, Splunk APM |
+| **Platform** | LaunchDarkly (feature flags), Poetry, pre-commit |
