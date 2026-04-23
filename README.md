@@ -7,13 +7,12 @@ Software architect building enterprise AI agent platforms and full-stack applica
 **Also building:** Desktop applications with Electron, full-stack web apps with React and FastAPI/Django, and developer tooling — from CI/CD pipelines to observability infrastructure (end-to-end OpenTelemetry tracing, Splunk APM dashboards) and automated LLM evaluation frameworks.
 
 
-## Personal Projects
+## Personal Projects (For non-profit orgs)
 
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [gsync](https://github.com/jpurusho/gdrive) | Electron · React · TypeScript · SQLite | Google Drive sync desktop app — bidirectional sync, MD5 checksums, pause/resume, scheduled auto-sync, mirror mode, HEIC→JPEG conversion |
 | [ots](https://github.com/jpurusho/ots) | Electron · React · Python · SQLite | Offering Tracking System — document scanning, Google Drive integration, database backup/merge |
-| [contacts](https://github.com/jpurusho/contacts) | Full-stack | Contact management application |
 
 ## Tech Stack
 
