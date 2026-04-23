@@ -7,7 +7,7 @@ Software architect building enterprise AI agent platforms and full-stack applica
 **Also building:** Desktop applications with Electron, full-stack web apps with React and FastAPI/Django, and developer tooling — from CI/CD pipelines to observability infrastructure (end-to-end OpenTelemetry tracing, Splunk APM dashboards) and automated LLM evaluation frameworks.
 
 
-## Personal Projects (For non-profit orgs)
+## Personal Projects (Hobby)
 
 | Project | Stack | Description |
 |---------|-------|-------------|
